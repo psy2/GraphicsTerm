@@ -1,5 +1,6 @@
 #Computer Graphis Term Project
-##Development Environment : Android
+
+Development Environment : Android
 
 
 
@@ -22,5 +23,7 @@
 
 ##Member
 -2014190706 김용훈
+
 -2014190714 김한마루
+
 -2014190716 박소윤
