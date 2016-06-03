@@ -73,6 +73,9 @@
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\ReturnToMainMenu.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
+    <Compile Include="Assets\characterMove.cs" />
+    <Compile Include="Assets\turnX.cs" />
+    <Compile Include="Assets\turnY.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Editor\Simplygon Bumped Specular.shader" />
