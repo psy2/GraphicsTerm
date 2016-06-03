@@ -5,7 +5,8 @@ Development Environment : Android
 
 
 ##Implementation
-
+- 기저 개발 환경 구성
+- 공간 내 사용자의 움직임 구현 <-NOW!
 
 
 ##Strategy
