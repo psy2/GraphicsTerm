@@ -6,7 +6,7 @@ public class characterMove : MonoBehaviour {
     float MoveSpeed;
 	// Use this for initialization
     void Start () {
-        MoveSpeed = 50f;
+        MoveSpeed = 20f;
 	}
 	
 	// Update is called once per frame

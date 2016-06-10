@@ -69,10 +69,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
-    <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
-    <Compile Include="Assets\SampleScenes\Menu\Scripts\ReturnToMainMenu.cs" />
-    <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
+    <Compile Include="Assets\RayTracer.cs" />
+    <Compile Include="Assets\RayTracerObject.cs" />
     <Compile Include="Assets\characterMove.cs" />
     <Compile Include="Assets\turnX.cs" />
     <Compile Include="Assets\turnY.cs" />
@@ -87,8 +85,9 @@
     <None Include="Assets\Editor\Simplygon Transparent Specular.shader" />
     <None Include="Assets\Editor\SimplygonReadMe.txt" />
     <None Include="Assets\Fonts\LICENSE.txt" />
+    <None Include="Assets\Glass Refraction\Glass-Stained-BumpDistort.shader" />
+    <None Include="Assets\Glass Refraction\Glass-Stained-BumpSpecDistort.shader" />
     <None Include="Assets\Models\Characters\BigHeads\BigHead Starter\Shader\Outlined Diffuse.shader" />
-    <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
